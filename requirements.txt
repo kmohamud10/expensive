@@ -6,3 +6,4 @@ autopep8
 flask
 Flask==2.2.2
 gunicorn==20.1.0 
+Werkzeug==2.1.2 

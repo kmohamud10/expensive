@@ -4,3 +4,5 @@ autopep8
 
 # App
 flask
+Flask==2.2.2
+gunicorn==20.1.0 

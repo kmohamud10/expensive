@@ -1,2 +1,3 @@
-Flask==2.2.2
+Flask==2.3.0  # Or a version that is compatible with Werkzeug 2.2.x or above
+Werkzeug>=2.2.2
 gunicorn==20.1.0

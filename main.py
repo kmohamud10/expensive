@@ -8,7 +8,6 @@ def create_user():
         Today = request.form["Today"]
         Task = request.form["Task"]
         Details = request.form["Details"]
-
         # Save to CSV
         with open("file.csv", "a", newline='') as f:
             writers = csv.writer(f)
